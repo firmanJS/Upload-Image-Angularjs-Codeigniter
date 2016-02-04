@@ -1,3 +1,4 @@
+<?
 	Public function simpan()
 	{
 		$config['upload_path']    = 'asset/gambar/backend/pengumuman/';
@@ -27,3 +28,4 @@
     	return ($this->db->affected_rows()!=1)?false:true;
 		}
 	}
+?>
