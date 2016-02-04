@@ -1,3 +1,3 @@
 # Upload-Image-Angularjs-Codeigniter
-Versi 1.4.7
-Angular
+Versi angular.min.js  1.4.7
+var linkserver isi dengan link project anda
