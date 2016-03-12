@@ -1,3 +1,4 @@
+ <script type="text/javascript">
  $scope.perbarui = function() {
     var file = $scope.myFile;
     var judul = $scope.judul;
@@ -21,3 +22,4 @@
       alert(data, status);
     });
   }
+  </script>
